@@ -1,68 +1,120 @@
-# Hey there, I'm Aryan 👋
+# Hey, I'm Aryan Raj 👋
 
-Full-Stack Developer | AIML Engineer | Builder of Ideas that Scale  
-Turning coffee into code, problems into products, and boredom into side-projects.
+### Software Engineer • Full-Stack Developer • AI/ML Engineer
+
+I build **scalable backend systems, full-stack applications, and AI-powered products**.
+
+Currently a **Specialist Programmer at Infosys**, working primarily with **Java, Spring Boot, microservices, PostgreSQL, AWS, and Angular**.
+
+I enjoy taking an idea from *“this should exist”* to a working product — from enterprise reporting systems to AI-powered applications.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 What I Do
 
-- 🔭 Currently working on real-time web apps, LLM-powered tools, and explainable AI.
-- 🌱 Exploring Rust, WebSockets, and ML optimization.
-- 👨‍🎓 Final year AIML student at NMIT.
-- 🧠 Love solving logical puzzles, building cool UI/UX, and making things talk to each other.
-- 💬 Let’s talk about MERN, Flask, Docker, LangChain, and anything GenAI!
+* ⚙️ Build **Java & Spring Boot microservices**
+* 🗄️ Design and optimize **PostgreSQL databases**
+* ☁️ Build cloud-integrated systems with **AWS**
+* 🌐 Develop **full-stack applications** with Angular, React & Node.js
+* 🤖 Integrate **LLMs and AI APIs** into real-world applications
+* ⚡ Work on asynchronous processing, REST APIs, and scalable backend architectures
+* 🧠 Solve **Data Structures & Algorithms** problems
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, TypeScript, Python, SQL, Bash
-- **Frontend:** React.js, TailwindCSS, HTML/CSS
-- **Backend:** Node.js, Express.js, Flask
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **DevOps:** Docker, Vercel, Netlify, Git, GitHub
-- **Cloud & Tools:** AWS (EC2, S3), Redis, REST APIs, Socket.IO
+### Backend
+
+`Java` `Spring Boot` `Node.js` `Express.js` `Python`
+
+### Frontend
+
+`Angular` `React.js` `JavaScript` `HTML` `CSS` `Bootstrap`
+
+### Databases
+
+`PostgreSQL` `MySQL` `MongoDB`
+
+### Cloud & DevOps
+
+`AWS S3` `Docker` `Git` `GitHub` `Linux`
+
+### AI / ML
+
+`OpenAI GPT-4` `Machine Learning` `Artificial Intelligence`
+
+### Tools
+
+`REST APIs` `Postman` `Jira` `Confluence` `VS Code` `STS`
 
 ---
 
-## 📌 Highlight Projects
+## 🚀 Featured Projects
 
-- **Kanban App**  
-  Realtime task board with smart assign, drag-and-drop, and Socket.IO.  
-  👉 https://kanban-app-ruby-seven.vercel.app/login
+### 💊 Medicine WhatsApp Reminder
 
-- **Liya: GenAI for Power BI**  
-  Natural language insights for dashboards using OpenAI + Power BI
+A full-stack medicine reminder application that allows users to schedule medicines and receive automated reminders through WhatsApp.
 
-- **Cross-Lingual Fake News Detection**  
-  HuggingFace + LIME + Regional LLMs for multilingual misinformation detection
+**Highlights**
 
-- **WhatsApp Reminder App**  
-  MERN + Flask combo for automating daily reminders
+* Built with **React, Node.js, Express & MongoDB**
+* Integrated **OpenAI GPT-4** to extract medicine names, dosage and timings from handwritten prescriptions
+* Used **Twilio WhatsApp API** for automated reminder delivery
+* Implemented **JWT-based authentication**
 
 ---
 
-## 📈 GitHub Stats
+### 📚 Book Review Platform
 
-Check out my GitHub stats, commits, and streaks on my profile  
-👉 [github.com/aryanraj123](https://github.com/aryan557)
+A MERN-based platform for discovering and reviewing books.
 
----
+**Highlights**
 
-## 📫 Let’s Connect
-
-- LinkedIn:(https://www.linkedin.com/in/aryan-raj-b96336232/))
-- Email: Aryanraj43004@gmail.com
-
----
-
-## ⚡ Fun Facts
-
-- ♟️ Former Vice President of my college chess club — strategic by nature.
-- 🧠 Always thinking of automating the next boring task.
-- 🤖 I once built a bot that applies for jobs while I sleep.
+* Secure authentication and **role-based access control**
+* CRUD functionality for books, reviews and comments
+* RESTful API architecture
+* Responsive React UI
+* Optimized MongoDB queries for efficient data retrieval
 
 ---
 
-Thanks for reading till the end. Let’s build something awesome together! 🚀
+## 💼 Currently
+
+**Specialist Programmer @ Infosys**
+
+Working on enterprise-scale applications involving:
+
+`Java 21` • `Spring Boot` • `Microservices` • `PostgreSQL` • `AWS S3` • `Angular`
+
+I've worked on high-performance report generation systems supporting **PDF and Excel generation, asynchronous processing, cloud storage, database auditing, and high-volume reporting workloads**.
+
+---
+
+## 🧠 Problem Solving
+
+**500+ DSA problems solved** across LeetCode and other competitive programming platforms.
+
+I enjoy problems involving algorithms, optimization, databases, and system design.
+
+---
+
+## ♟️ Beyond Code
+
+Former **Vice President of the Chess Club at NMIT** and **VTU Chess Champion**.
+
+Chess taught me something I use in engineering every day:
+
+> Think ahead. Understand the position. Then make the move.
+
+---
+
+## 📫 Let's Connect
+
+* 💼 LinkedIn: [Aryan Raj](https://www.linkedin.com/in/aryan-raj-b96336232/)
+* 💻 GitHub: [aryan557](https://github.com/aryan557)
+* 📧 Email: [Aryanraj43004@gmail.com](mailto:Aryanraj43004@gmail.com)
+
+---
+
+### 🚀 Build. Break. Learn. Repeat.
